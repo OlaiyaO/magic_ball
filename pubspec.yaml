@@ -22,3 +22,8 @@ flutter:
 
   assets:
     - images/
+#
+#  fonts:
+#    - family: Comfortaa
+#      fonts:
+#        - asset: fonts/Comforta-Regular.ttf
