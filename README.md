@@ -8,7 +8,7 @@ The objective of this app is to solidify what I learn't in the Dicee app. This a
 
 ## What I created
 
-I created a magical 8 ball app, the app gives me the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
+I created a magical 8 ball app, the app gives me the answers to all the tricky questions in my life. I can make the ball change at the press of a button. 
 
 
 
